@@ -8,7 +8,7 @@
     "keywords": ["cli", "automation", "yaml"],
     "tags": ["utility", "cross-platform"],
     "sha256": "43d1476a4a1d1d8deda144daf434d72eb36a3efcebd2a680fbc06f9ffcd56cd7",
-    "repository": {
+    "sources": {
         "windows": "https://github.com/Glubiz/zirv-dynamic-cli/releases/download/v0.6.2/zirv-windows-latest.exe",
         "macos": "https://github.com/Glubiz/zirv-dynamic-cli/releases/download/v0.6.2/zirv-macos-latest.tar.gz"
     }

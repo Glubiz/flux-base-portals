@@ -1,0 +1,15 @@
+{
+    "name": "Zirv",
+    "homepage": "https://github.com/Glubiz/zirv-dynamic-cli",
+    "license": "MIT",
+    "author": "Jonathan Solskov",
+    "version": "0.6.2",
+    "description": "Dynamic CLI tool to streamline tasks and boost productivity",
+    "keywords": ["cli", "automation", "yaml"],
+    "tags": ["utility", "cross-platform"],
+    "sha256": "43d1476a4a1d1d8deda144daf434d72eb36a3efcebd2a680fbc06f9ffcd56cd7",
+    "repository": {
+        "windows": "https://github.com/Glubiz/zirv-dynamic-cli/releases/download/v0.6.2/zirv-windows-latest.exe",
+        "macos": "https://github.com/Glubiz/zirv-dynamic-cli/releases/download/v0.6.2/zirv-macos-latest.tar.gz"
+    }
+}
